@@ -1,5 +1,5 @@
 # MVVM Dagger-Hilt Retrofit LiveData Kotlin
-MVVM implementation with DaggerHilt and Retrofit
+MVVM implementation with DaggerHilt,LiveData and Retrofit
 
 This code is useful to start any android project using MVVM design pattern, Dependency Injection with Hilt ,LiveData and Retrofit.
 
