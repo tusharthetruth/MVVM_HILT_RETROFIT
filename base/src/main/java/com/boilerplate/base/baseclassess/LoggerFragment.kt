@@ -2,7 +2,7 @@ package com.boilerplate.base.baseclassess
 
 import android.content.Context
 import androidx.fragment.app.Fragment
-import com.boilerplate.base.extensions.logd
+import logd
 
 open class LoggerFragment:Fragment() {
 
