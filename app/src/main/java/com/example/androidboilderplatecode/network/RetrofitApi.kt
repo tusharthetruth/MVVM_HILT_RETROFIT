@@ -9,5 +9,4 @@ interface RetrofitApi {
 
     @GET
     fun getSampleEntries(@Url url:String): Call<JsonElement>
-
 }

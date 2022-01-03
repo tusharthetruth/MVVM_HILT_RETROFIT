@@ -11,7 +11,7 @@ class RetrofitClient {
     private lateinit var retrofit: Retrofit
 
     init {
-        instance = this;
+        retrofitInstance = this;
         initRetrofit()
     }
 
@@ -26,14 +26,14 @@ class RetrofitClient {
     }
 
     companion object {
-        private var instance: RetrofitClient? = null
+        lateinit var retrofitInstance: RetrofitClient
 
         @Synchronized
-        fun getInstance(): RetrofitClient? {
-            if (instance == null) {
-                instance = RetrofitClient()
+        fun getInstance(): RetrofitClient {
+            if (retrofitInstance == null) {
+                retrofitInstance = RetrofitClient()
             }
-            return instance
+            return retrofitInstance
         }
     }
 

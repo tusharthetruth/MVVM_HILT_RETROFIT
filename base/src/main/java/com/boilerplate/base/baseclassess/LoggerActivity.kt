@@ -3,7 +3,7 @@ package com.boilerplate.base.baseclassess
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.boilerplate.base.extensions.logd
+import logd
 
 open class LoggerActivity :AppCompatActivity() {
 
