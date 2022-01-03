@@ -1,2 +1,2 @@
-# MVVM_HILT_RETROFIT
+# MVVM Dagger-Hilt Retrofit
 MVVM implementation with DaggerHilt and Retrofit
