@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tushar/Documents/androidProjects/BoilerPlate/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/tushar/.gradle/caches/transforms-3/90398638eab162ba43de91c142922e28/transformed/appcompat-1.4.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

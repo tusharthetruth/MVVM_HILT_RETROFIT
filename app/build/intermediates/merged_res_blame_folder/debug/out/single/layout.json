@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/tushar/Documents/androidProjects/BoilerPlate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sample.xml",
+        "source": "/home/tushar/Documents/androidProjects/BoilerPlate/app/src/main/res/layout/activity_sample.xml"
+    },
+    {
+        "merged": "/home/tushar/Documents/androidProjects/BoilerPlate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/tushar/Documents/androidProjects/BoilerPlate/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/tushar/Documents/androidProjects/BoilerPlate/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/sample_list.xml",
+        "source": "/home/tushar/Documents/androidProjects/BoilerPlate/app/src/main/res/layout/sample_list.xml"
+    }
+]

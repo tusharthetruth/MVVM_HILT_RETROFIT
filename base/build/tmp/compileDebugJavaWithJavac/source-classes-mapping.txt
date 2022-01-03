@@ -1,0 +1,2 @@
+com/boilerplate/base/BuildConfig.java
+ com.boilerplate.base.BuildConfig
